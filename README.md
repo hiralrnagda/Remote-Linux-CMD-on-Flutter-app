@@ -1,4 +1,4 @@
-# Linux Remote CMD on Flutter
+# Linux CMD on Flutter
 
 A new Flutter project.
 
