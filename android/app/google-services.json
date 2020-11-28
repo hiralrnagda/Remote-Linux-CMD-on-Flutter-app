@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740954855345",
+    "firebase_url": "https://fluttertask4.firebaseio.com",
+    "project_id": "fluttertask4",
+    "storage_bucket": "fluttertask4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740954855345:android:a572852d997dae696d8f90",
+        "android_client_info": {
+          "package_name": "com.hiral.task4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740954855345-clb10atnpk7fb98ga2p672rpluvl6joh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEsltlu-HYpWgkE8harBIidOtP5XnGfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740954855345-clb10atnpk7fb98ga2p672rpluvl6joh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
